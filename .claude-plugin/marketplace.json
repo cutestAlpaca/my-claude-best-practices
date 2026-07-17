@@ -18,14 +18,6 @@
         "source": "github",
         "repo": "jarrodwatts/claude-hud"
       }
-    },
-    {
-      "name": "claude-mem",
-      "description": "Persistent cross-session memory for Claude Code",
-      "source": {
-        "source": "github",
-        "repo": "thedotmack/claude-mem"
-      }
     }
   ]
 }
