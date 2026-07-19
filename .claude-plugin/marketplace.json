@@ -1,13 +1,13 @@
 {
-  "name": "my-claude-best-practices",
+  "name": "alpaca-claude-tips",
   "owner": {
-    "name": "xiaodizi",
-    "url": "https://github.com/xiaodizi/my-claude-best-practices"
+    "name": "cutestAlpaca",
+    "url": "https://github.com/cutestAlpaca/my-claude-best-practices"
   },
   "source": "./",
   "plugins": [
     {
-      "name": "my-claude-best-practices",
+      "name": "alpaca-claude-tips",
       "description": "我的 Claude Code 实践配置指南 - 10个提升效率的实用技巧",
       "source": "./"
     },

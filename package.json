@@ -1,8 +1,8 @@
 {
-  "name": "my-claude-best-practices",
+  "name": "alpaca-claude-tips",
   "version": "1.0.1",
   "description": "Claude Code 最佳实践配置指南 - 10个提升效率的实用技巧",
-  "author": "lei.fu",
+  "author": "alpaca",
   "license": "MIT",
   "keywords": [
     "claude",

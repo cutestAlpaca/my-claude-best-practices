@@ -3,7 +3,7 @@ name: setup
 description: 一键自动配置 Claude Code 最佳实装 - 包括上下文压缩阈值、Git 署名清理、自定义 spinner 等
 ---
 
-# my-claude-best-practices:setup
+# alpaca-claude-tips:setup
 
 一键自动配置文档中推荐的所有 Claude Code 最佳实装配置。
 

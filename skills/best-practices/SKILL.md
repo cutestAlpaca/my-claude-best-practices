@@ -1,5 +1,5 @@
 ---
-name: my-claude-best-practices
+name: alpaca-claude-tips
 description: Claude Code 最佳实践配置指南 - 10个提升效率的实用技巧，帮你发挥 Claude Code 的全部潜力
 ---
 

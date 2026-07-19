@@ -1,10 +1,10 @@
 {
-  "id": "my-claude-best-practices",
-  "name": "my-claude-best-practices",
+  "id": "alpaca-claude-tips",
+  "name": "alpaca-claude-tips",
   "version": "1.0.1",
   "description": "我的 Claude Code 实践配置指南 - 10个提升效率的实用技巧",
   "author": {
-    "name": "lei.fu"
+    "name": "alpaca"
   },
   "keywords": [
     "claude",
@@ -14,7 +14,7 @@
     "tips",
     "optimization"
   ],
-  "homepage": "https://github.com",
-  "repository": "https://github.com",
+  "homepage": "https://github.com/cutestAlpaca/my-claude-best-practices",
+  "repository": "https://github.com/cutestAlpaca/my-claude-best-practices",
   "license": "MIT"
 }

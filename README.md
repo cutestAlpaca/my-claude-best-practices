@@ -1,4 +1,4 @@
-# my-claude-best-practices
+# alpaca-claude-tips
 
 > 🎨 我的 Claude Code 最佳实践配置 - 10 个实用技巧一键安装，让 Claude Code 发挥 100% 潜力
 
@@ -27,14 +27,14 @@
 ### 从 GitHub 安装（推荐）
 
 ```
-/plugin marketplace add xiaodizi/my-claude-best-practices
-/plugin install my-claude-best-practices
+/plugin marketplace add cutestAlpaca/my-claude-best-practices
+/plugin install alpaca-claude-tips
 ```
 
 ### 从本地安装（开发）
 
 ```bash
-git clone https://github.com/xiaodizi/my-claude-best-practices.git
+git clone https://github.com/cutestAlpaca/my-claude-best-practices.git
 cd my-claude-best-practices
 /plugin install .
 ```
@@ -45,7 +45,7 @@ cd my-claude-best-practices
 
 ```bash
 # 1. 一键自动配置所有推荐设置
-/my-claude-best-practices:setup
+/alpaca-claude-tips:setup
 
 # 2. 配置 Claude HUD
 /claude-hud:setup
@@ -58,7 +58,7 @@ cd my-claude-best-practices
 安装完成后，随时可以查看完整的最佳实践指南：
 
 ```
-/my-claude-best-practices
+/alpaca-claude-tips
 ```
 
 指南包含了每个配置的原理说明，帮助你理解为什么要这么配置。
@@ -67,7 +67,7 @@ cd my-claude-best-practices
 
 ### 自动安装依赖插件
 
-安装 `my-claude-best-practices` 时，Claude Code 会**自动安装**：
+安装 `alpaca-claude-tips` 时，Claude Code 会**自动安装**：
 - [claude-hud](https://github.com/jarrodwatts/claude-hud) - 美观的状态仪表盘
 - [claude-mem](https://github.com/thedotmack/claude-mem) - 跨会话持久化记忆
 
@@ -90,7 +90,7 @@ cd my-claude-best-practices
 
 ## 👨‍💻 作者
 
-lei.fu ([@xiaodizi](https://github.com/xiaodizi))
+alpaca ([@cutestAlpaca](https://github.com/cutestAlpaca))
 
 ## 📄 许可证
 
